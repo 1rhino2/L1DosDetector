@@ -10,8 +10,6 @@ This project is written with clarity and best practices for C++/Windows WMI, mak
 - **Monitors all physical network adapters** (ignores virtual/loopback)
 - **Detects link state changes** (e.g., cable unplugged/plugged)
 - **Detects sudden RX/TX error bursts** (physical jamming, port flapping, failing hardware)
-- **Beginner-friendly, robust code**
-- **No dependencies except Windows and MSVC**
 
 ---
 
