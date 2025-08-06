@@ -1,0 +1,17 @@
+# Visual Studio build files and temp
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+ipch/
+Debug/
+Release/
+.vs/
+*.log
+*.VC.db
+*.VC.opendb
